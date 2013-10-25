@@ -3,6 +3,10 @@ My Project
 
 This a content package project generated using the multimodule-content-package-archetype.
 
+Created using this page: http://dev.day.com/docs/en/cq/aem-how-tos/development/how-to-build-aem-projects-using-apache-maven.html#Getting Started in 5 Minutes
+
+Then adjust a little.
+
 Building
 --------
 
